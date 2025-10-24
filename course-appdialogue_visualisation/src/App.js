@@ -585,6 +585,7 @@ const ScatterPlot = ({ points, width = 460, height = 300, padding = 36 }) => {
 const AlluvialChart = ({ films, groupKey1, groupKey2, title, valueKey = 'count' }) => {
     
     const [hoveredGroup, setHoveredGroup] = useState(null);
+    const [showAllLabels, setShowAllLabels] = useState(false);
     
   
     const colorMap = useMemo(() => ({
@@ -606,8 +607,9 @@ const AlluvialChart = ({ films, groupKey1, groupKey2, title, valueKey = 'count' 
     
     const { group1: bottomNodes, group2: topNodes, totalValue } = alluvialData;
 
-    const significantBottomNodes = bottomNodes.filter(n => n.totalValue / totalValue > 0.01);
-    const significantTopNodes = topNodes.filter(n => n.totalValue / totalValue > 0.01);
+    // Reduce threshold to show more nodes
+    const significantBottomNodes = bottomNodes.filter(n => n.totalValue / totalValue > 0.005);
+    const significantTopNodes = topNodes.filter(n => n.totalValue / totalValue > 0.005);
 
     const significantTotalValue = significantBottomNodes.reduce((sum, n) => sum + n.totalValue, 0);
 
