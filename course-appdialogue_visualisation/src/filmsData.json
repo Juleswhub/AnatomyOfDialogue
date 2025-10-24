@@ -1,0 +1,212 @@
+[
+    {
+        "titre": "La Grande Illusion",
+        "annee_production": 1937,
+        "pays": "France",
+        "nombre_mots_scenario": 12450,
+        "analyse_sentiment": "positive/Hopeful war drama"
+    },
+    {
+        "titre": "Citizen Kane",
+        "annee_production": 1941,
+        "pays": "États-Unis",
+        "nombre_mots_scenario": 18200,
+        "analyse_sentiment": "neutral/Complex character study"
+    },
+    {
+        "titre": "Rashomon",
+        "annee_production": 1950,
+        "pays": "Japon",
+        "nombre_mots_scenario": 9800,
+        "analyse_sentiment": "neutral/Philosophical mystery"
+    },
+    {
+        "titre": "Les Quatre Cents Coups",
+        "annee_production": 1959,
+        "pays": "France",
+        "nombre_mots_scenario": 11300,
+        "analyse_sentiment": "negative/Melancholic coming-of-age"
+    },
+    {
+        "titre": "Psycho",
+        "annee_production": 1960,
+        "pays": "États-Unis",
+        "nombre_mots_scenario": 14500,
+        "analyse_sentiment": "negative/Suspenseful thriller"
+    },
+    {
+        "titre": "8½",
+        "annee_production": 1963,
+        "pays": "Italie",
+        "nombre_mots_scenario": 13700,
+        "analyse_sentiment": "neutral/Introspective drama"
+    },
+    {
+        "titre": "The Graduate",
+        "annee_production": 1967,
+        "pays": "États-Unis",
+        "nombre_mots_scenario": 15600,
+        "analyse_sentiment": "neutral/Satirical comedy-drama"
+    },
+    {
+        "titre": "2001: A Space Odyssey",
+        "annee_production": 1968,
+        "pays": "Royaume-Uni",
+        "nombre_mots_scenario": 8900,
+        "analyse_sentiment": "neutral/Philosophical sci-fi"
+    },
+    {
+        "titre": "Le Parrain",
+        "annee_production": 1972,
+        "pays": "États-Unis",
+        "nombre_mots_scenario": 21400,
+        "analyse_sentiment": "negative/Dark crime saga"
+    },
+    {
+        "titre": "Aguirre, la colère de Dieu",
+        "annee_production": 1972,
+        "pays": "Allemagne",
+        "nombre_mots_scenario": 10200,
+        "analyse_sentiment": "negative/Descent into madness"
+    },
+    {
+        "titre": "Taxi Driver",
+        "annee_production": 1976,
+        "pays": "États-Unis",
+        "nombre_mots_scenario": 16800,
+        "analyse_sentiment": "negative/Psychological thriller"
+    },
+    {
+        "titre": "Star Wars",
+        "annee_production": 1977,
+        "pays": "États-Unis",
+        "nombre_mots_scenario": 19300,
+        "analyse_sentiment": "positive/Epic space adventure"
+    },
+    {
+        "titre": "Apocalypse Now",
+        "annee_production": 1979,
+        "pays": "États-Unis",
+        "nombre_mots_scenario": 17500,
+        "analyse_sentiment": "negative/War horror"
+    },
+    {
+        "titre": "Raging Bull",
+        "annee_production": 1980,
+        "pays": "États-Unis",
+        "nombre_mots_scenario": 14900,
+        "analyse_sentiment": "negative/Tragic biography"
+    },
+    {
+        "titre": "E.T. l'extra-terrestre",
+        "annee_production": 1982,
+        "pays": "États-Unis",
+        "nombre_mots_scenario": 13200,
+        "analyse_sentiment": "positive/Heartwarming adventure"
+    },
+    {
+        "titre": "Ran",
+        "annee_production": 1985,
+        "pays": "Japon",
+        "nombre_mots_scenario": 15800,
+        "analyse_sentiment": "negative/Tragic epic"
+    },
+    {
+        "titre": "Le Fabuleux Destin d'Amélie Poulain",
+        "annee_production": 2001,
+        "pays": "France",
+        "nombre_mots_scenario": 16700,
+        "analyse_sentiment": "positive/Whimsical romance"
+    },
+    {
+        "titre": "Spirited Away",
+        "annee_production": 2001,
+        "pays": "Japon",
+        "nombre_mots_scenario": 11900,
+        "analyse_sentiment": "positive/Magical adventure"
+    },
+    {
+        "titre": "La Vie des autres",
+        "annee_production": 2006,
+        "pays": "Allemagne",
+        "nombre_mots_scenario": 18600,
+        "analyse_sentiment": "neutral/Political drama"
+    },
+    {
+        "titre": "Inception",
+        "annee_production": 2010,
+        "pays": "États-Unis",
+        "nombre_mots_scenario": 22100,
+        "analyse_sentiment": "positive/Mind-bending thriller"
+    },
+    {
+        "titre": "The Artist",
+        "annee_production": 2011,
+        "pays": "France",
+        "nombre_mots_scenario": 8500,
+        "analyse_sentiment": "positive/Nostalgic romance"
+    },
+    {
+        "titre": "Parasite",
+        "annee_production": 2019,
+        "pays": "Corée du Sud",
+        "nombre_mots_scenario": 19800,
+        "analyse_sentiment": "negative/Social satire"
+    },
+    {
+        "titre": "Roma",
+        "annee_production": 2018,
+        "pays": "Mexique",
+        "nombre_mots_scenario": 12700,
+        "analyse_sentiment": "neutral/Personal memoir"
+    },
+    {
+        "titre": "La La Land",
+        "annee_production": 2016,
+        "pays": "États-Unis",
+        "nombre_mots_scenario": 17200,
+        "analyse_sentiment": "positive/Musical romance"
+    },
+    {
+        "titre": "Moonlight",
+        "annee_production": 2016,
+        "pays": "États-Unis",
+        "nombre_mots_scenario": 14300,
+        "analyse_sentiment": "neutral/Coming-of-age drama"
+    },
+    {
+        "titre": "Toni Erdmann",
+        "annee_production": 2016,
+        "pays": "Allemagne",
+        "nombre_mots_scenario": 20400,
+        "analyse_sentiment": "positive/Quirky comedy-drama"
+    },
+    {
+        "titre": "Call Me by Your Name",
+        "annee_production": 2017,
+        "pays": "Italie",
+        "nombre_mots_scenario": 13900,
+        "analyse_sentiment": "positive/Romantic drama"
+    },
+    {
+        "titre": "The Shawshank Redemption",
+        "annee_production": 1994,
+        "pays": "États-Unis",
+        "nombre_mots_scenario": 19700,
+        "analyse_sentiment": "positive/Uplifting prison drama"
+    },
+    {
+        "titre": "Pulp Fiction",
+        "annee_production": 1994,
+        "pays": "États-Unis",
+        "nombre_mots_scenario": 21900,
+        "analyse_sentiment": "neutral/Dark comedy crime"
+    },
+    {
+        "titre": "La Haine",
+        "annee_production": 1995,
+        "pays": "France",
+        "nombre_mots_scenario": 13500,
+        "analyse_sentiment": "negative/Social commentary"
+    }
+]
